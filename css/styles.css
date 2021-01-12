@@ -7,7 +7,13 @@ img {
   border: solid 10px #000;
 }
 
+h3 {
+  text-align: center;
+}
 
+ li {
+   margin: 0 60px 0 60px;
+ }
 
 
 /* Class Styling */
@@ -26,18 +32,39 @@ img {
   padding-left: 15px;
   margin-top: auto;
   margin-bottom: auto;
-
 }
 
-/* ID styling */
+.package-photo {
+  width: 100%;
+  height: auto;
+}
 
-#footP {
+.no-dot {
+  list-style-type: none;
+}
+
+.middle-list {
+  text-align: center;
+  list-style-position: inside;
+  margin-top: 50px;
+  margin-bottom: auto;
+  list-style-type: none;
+}
+
+.footP {
   text-align: center;
   margin: auto;
   padding: 25px 0 5px 0;
 }
+/* ID styling */
+
 
 #blockquotes {
   text-align: center;
+}
+
+#center-list {
+  margin-top: 20px;
+  margin-bottom: -30px;
 }
 

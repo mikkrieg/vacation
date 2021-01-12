@@ -1,0 +1,43 @@
+/*Element styles  */
+h1 {
+  text-align: center;
+}
+
+img {
+  border: solid 10px #000;
+}
+
+
+
+
+/* Class Styling */
+
+.decor {
+  border-bottom: 5px solid #000;
+  margin: 30px 510px 30px 510px;
+}
+
+.col-md-6 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.description {
+  padding-left: 15px;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+/* ID styling */
+
+#footP {
+  text-align: center;
+  margin: auto;
+  padding: 25px 0 5px 0;
+}
+
+#blockquotes {
+  text-align: center;
+}
+
